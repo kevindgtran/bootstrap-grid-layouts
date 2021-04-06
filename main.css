@@ -1,0 +1,61 @@
+p{
+  color: white;
+  font-size: 15px;
+  text-align: center;1
+}
+.twelve{
+  background-color: #ff7373;
+  height: 100px;
+  border: 1px solid black;
+}
+.twelve:hover{
+  text-transform: uppercase;
+  text-transform: bold;
+}
+.six{
+  background-color: #ffa500;
+  height: 100px;
+  border: 1px solid black;
+}
+.six:hover{
+  text-transform: uppercase;
+  text-transform: bold;
+}
+.line2{
+}
+.three{
+  background-color: #008080;
+  height: 100px;
+  border: 1px solid black;
+}
+.three:hover{
+  text-transform: uppercase;
+  text-transform: bold;
+}
+.two{
+  background-color: #c0c0c0;
+  height: 100px;
+  border: 1px solid black;
+}
+.two:hover{
+  text-transform: uppercase;
+  text-transform: bold;
+}
+.one{
+  background-color: #66cdaa;
+  height: 100px;
+  border: 1px solid black;
+}
+.one:hover{
+  text-transform: uppercase;
+  text-transform: bold;
+}
+.testButtons{
+  text-align: center;
+}
+.imageRow{
+  text-align: center;
+}
+.backText{
+  height: 100px;
+}
